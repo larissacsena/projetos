@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.cabecalho {
+  text-align: center;
+}
+
+body{
+  margin-left: 150px;
+  margin-right: 100px;
+}
